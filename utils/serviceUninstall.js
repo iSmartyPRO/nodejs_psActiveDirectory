@@ -4,7 +4,7 @@ const path = require('path')
 
 // Create a new service object
 const svc = new Service({
-    name: config.APP_NAME,
+    name: config.APP_Name,
     script: path.join(__dirname,'..','index.js')
 });
 
