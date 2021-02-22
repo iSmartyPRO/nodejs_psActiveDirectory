@@ -13,7 +13,7 @@ Hopefully into this project will be added more functionality.
 # How to install
 
 ```
-git clone github_url
+git clone https://github.com/iSmartyPRO/nodejs_psActiveDirectory.git
 cd nodejs_psActiveDirectory
 npm install
 node utils\installService.js
